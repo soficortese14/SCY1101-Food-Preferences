@@ -3,8 +3,9 @@
 **Evaluación:** Parcial N°1  
 
 ## Integrantes
-- [Nombre estudiante 1]
-- [Nombre estudiante 2]
+- Felipe Araya 
+- Sofia Cortese
+- Antonia Muñoz
 
 ## Descripción
 Proyecto de transformación y limpieza de datos aplicado a una encuesta de preferencias alimentarias. Se aplican técnicas de manipulación, limpieza y análisis exploratorio usando Python, Pandas y NumPy en Google Colab.
